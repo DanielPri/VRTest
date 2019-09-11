@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+#ignore downloaded assets
+/Intro-to-VR-Project-Files/
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
